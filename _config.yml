@@ -1,6 +1,7 @@
 sass:
    sass_dir: bower_components/bootstrap/scss
    # sass_dir: _scss
+   style: compressed
 
 # Exclude from processing.
 exclude:
