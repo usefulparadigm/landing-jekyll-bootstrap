@@ -1,3 +1,7 @@
+title: Landing Jekyll
+description: Jekyll is landing to the earth!    
+# lang: ko_KR
+
 sass:
    sass_dir: bower_components/bootstrap/scss
    # sass_dir: _scss
@@ -10,3 +14,7 @@ exclude:
   - README.md
   - bower_components
   - bower.json
+  
+plugins:
+  - jekyll-seo-tag
+  
