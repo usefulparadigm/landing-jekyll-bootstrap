@@ -1,0 +1,23 @@
+{
+  "name": "landing-jekyll-bootstrap",
+  "version": "1.0.0",
+  "description": "Landing Jekyll for Bootstrap ==",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usefulparadigm/landing-jekyll-bootstrap.git"
+  },
+  "author": "Sukjoon Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usefulparadigm/landing-jekyll-bootstrap/issues"
+  },
+  "homepage": "https://github.com/usefulparadigm/landing-jekyll-bootstrap#readme"
+}

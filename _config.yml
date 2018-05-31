@@ -3,8 +3,11 @@ description: Jekyll is landing to the earth!
 # lang: ko_KR
 
 sass:
-   sass_dir: bower_components/bootstrap/scss
+   sass_dir: node_modules/bootstrap/scss
    # sass_dir: _scss
+   # load_paths:
+   #   - _scss
+   #   - node_modules/bootstrap/scss
    style: compressed
 
 # Exclude from processing.
@@ -12,8 +15,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - bower_components
-  - bower.json
+  - node_modules
+  - package.json
+  - package-lock.json
   
 plugins:
   - jekyll-seo-tag

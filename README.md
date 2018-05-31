@@ -7,7 +7,7 @@ Usage
 --
 
     $ git clone && cd
-    $ bower install
+    $ npm install
     $ bundle install
     $ bundle exec jekyll serve
     $ open http://localhost:4000
