@@ -4,7 +4,7 @@
   "description": "Landing Jekyll for Bootstrap ==",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^4.1"
+    "bootstrap": "^4.1.3"
   },
   "devDependencies": {},
   "scripts": {
